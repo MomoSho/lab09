@@ -1,8 +1,8 @@
 # Lab 09 - Recursion running on GCP
 
 ## Set up
-1. Make sure when you print your working directory, you are in your lab08 folder.
-   If not, naviagate to your lab08 directory
+1. Make sure when you print your working directory, you are in your lab09 folder.
+   If not, naviagate to your lab09 directory
    
    `cd CS2334_SP19/lab09`
    
