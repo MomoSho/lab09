@@ -53,4 +53,8 @@
 ## Final deployment
 
    `gcloud app deploy webapp/WEB-INF/appengine-web.xml`
+   
+   View the debug log for the remote deployment of the current project with
+   
+   `gcloud app logs tail -s default`
 
